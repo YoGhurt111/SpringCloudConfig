@@ -1,2 +1,2 @@
 # SpringCloudConfig
-分布 式配置中心
+分布式配置中心
